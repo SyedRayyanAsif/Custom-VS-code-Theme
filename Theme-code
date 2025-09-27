@@ -1,0 +1,42 @@
+{
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "workbench.colorTheme": "Better Material Theme Darker High Contrast",
+  
+  "editor.tokenColorCustomizations": {
+    "[Better Material Theme Darker High Contrast]": {
+      "textMateRules": [
+        { "scope": "keyword", "settings": { "foreground": "#C792EA" } },
+        { "scope": "string", "settings": { "foreground": "#C3E88D" } },
+        { "scope": "comment", "settings": { "foreground": "#697098", "fontStyle": "italic" } },
+        { "scope": "variable", "settings": { "foreground": "#FFCB6B" } },
+        { "scope": "function", "settings": { "foreground": "#82AAFF" } },
+        { "scope": "constant.numeric", "settings": { "foreground": "#F78C6C" } },
+        { "scope": "storage.type", "settings": { "foreground": "#C792EA", "fontStyle": "bold" } },
+        { "scope": "entity.name.type", "settings": { "foreground": "#FF5370" } },
+        { "scope": "entity.name.tag", "settings": { "foreground": "#FF5370" } },
+        { "scope": "punctuation.definition.tag", "settings": { "foreground": "#FF5370" } },
+        { "scope": "support.function", "settings": { "foreground": "#82AAFF" } }
+      ]
+    }
+  },
+
+  "workbench.colorCustomizations": {
+    "editor.background": "#000822",  // really dark blue
+    "editor.foreground": "#D6DEEB",
+    "editorCursor.foreground": "#FFCC00",
+    "editor.lineHighlightBackground": "#111A33",
+    "editorLineNumber.foreground": "#5C6370",
+    "editor.selectionBackground": "#1E2A45",
+    "sideBar.background": "#011627",
+    "sideBar.foreground": "#D6DEEB",
+    "activityBar.background": "#011627",
+    "activityBar.foreground": "#D6DEEB",
+    "statusBar.background": "#011627",
+    "statusBar.foreground": "#D6DEEB",
+    "tab.activeBackground": "#011627",
+    "tab.inactiveBackground": "#011627",
+    "tab.activeForeground": "#D6DEEB",
+    "tab.inactiveForeground": "#5C6370"
+  }
+}
